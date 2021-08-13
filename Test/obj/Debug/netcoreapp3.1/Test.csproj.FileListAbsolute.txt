@@ -1,0 +1,15 @@
+C:\Users\reddr\source\repos\Test1\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\reddr\source\repos\Test1\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\reddr\source\repos\Test1\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\reddr\source\repos\Test1\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\reddr\source\repos\Test1\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\reddr\source\repos\Test1\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\reddr\source\repos\Test1\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\reddr\source\repos\Test1\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\reddr\source\repos\Test1\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\reddr\source\repos\Test1\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\reddr\source\repos\Test1\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\reddr\source\repos\Test1\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+C:\Users\reddr\source\repos\Test1\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+C:\Users\reddr\source\repos\Test1\Test\obj\Debug\netcoreapp3.1\Interop.DtrHostLib.dll
+C:\Users\reddr\source\repos\Test1\Test\obj\Debug\netcoreapp3.1\Test.csproj.ResolveComReference.cache
